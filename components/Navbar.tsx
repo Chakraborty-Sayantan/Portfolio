@@ -83,7 +83,7 @@ export default function Navbar() {
             <Link href="#skills" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Skills</Link>
             <Link href="#projects" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Projects</Link>
             <Link href="#additionalInfo" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Additional Info</Link>
-            <Link href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-700 block px-4 py-2 rounded-md text-base font-medium">Download CV</Link>
+            <Link href="https://drive.google.com/file/d/1hUjYhRDT7NP_17vdb8PWEQ01PuOydyMv/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-700 block px-4 py-2 rounded-md text-base font-medium">Download CV</Link>
           </div>
         </div>
       )}
