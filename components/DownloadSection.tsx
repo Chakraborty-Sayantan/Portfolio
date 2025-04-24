@@ -21,7 +21,7 @@ export default function DownloadSection() {
             
             <div className="flex flex-wrap justify-center gap-6">
               <Link 
-                href="https://drive.google.com/file/d/1TQGz1XrDP-helQJtKHKQMNL-b-NeTSnv/view?usp=sharing" 
+                href="https://drive.google.com/file/d/119KxUGfbfcrbaMtNEkb0115XbMwdF2xc/view?usp=sharing" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors duration-300 animate__animated animate__fadeInUp"
