@@ -23,8 +23,8 @@ export default function Navbar() {
           <div className="flex items-center">
             </div>
           
-          <div className="hidden md:flex items-center space-x-10">
-            <div className="ml-5 flex items-center space-x-12">
+          <div className="hidden md:flex items-center justify-center w-full">
+            <div className="flex items-center space-x-12">
               <Link href="#hero" className="hover:bg-neutral-100 dark:hover:bg-neutral-700 px-3 py-2 rounded-md text-sm font-medium">Home</Link>
               {/*<Link href="#professionalSummary" className="hover:bg-neutral-100 dark:hover:bg-neutral-700 px-3 py-2 rounded-md text-sm font-medium">Summary</Link>*/}
               <Link href="#skills" className="hover:bg-neutral-100 dark:hover:bg-neutral-700 px-3 py-2 rounded-md text-sm font-medium">Skills</Link>
