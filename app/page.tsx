@@ -1,10 +1,10 @@
 import Navbar from "@/components/Navbar"
 import Hero from "@/components/Hero"
-import ProfessionalSummary from "@/components/ProfessionalSummary"
+//import ProfessionalSummary from "@/components/ProfessionalSummary"
 import Skills from "@/components/Skills"
+import Projects from '../components/Projects'
 import WorkExperience from "@/components/WorkExperience"
 import Education from "@/components/Education"
-import Projects from '../components/Projects'
 import AdditionalInfo from '../components/AdditionalInfo'
 import DownloadSection from '../components/DownloadSection'
 import Footer from '../components/Footer'
@@ -16,11 +16,11 @@ export default function Home() {
       <Navbar />
       <Hero />
       <MarqueeSection />
-      <ProfessionalSummary />
+    {/*  <ProfessionalSummary />*/}
       <Skills />
+      <Projects />
       <WorkExperience />
       <Education />
-      <Projects />
       <AdditionalInfo />
       <DownloadSection />
       <Footer />

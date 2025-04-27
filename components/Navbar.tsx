@@ -26,11 +26,11 @@ export default function Navbar() {
           <div className="hidden md:flex items-center space-x-10">
             <div className="ml-5 flex items-center space-x-12">
               <Link href="#hero" className="hover:bg-neutral-100 dark:hover:bg-neutral-700 px-3 py-2 rounded-md text-sm font-medium">Home</Link>
-              <Link href="#professionalSummary" className="hover:bg-neutral-100 dark:hover:bg-neutral-700 px-3 py-2 rounded-md text-sm font-medium">Summary</Link>
+              {/*<Link href="#professionalSummary" className="hover:bg-neutral-100 dark:hover:bg-neutral-700 px-3 py-2 rounded-md text-sm font-medium">Summary</Link>*/}
               <Link href="#skills" className="hover:bg-neutral-100 dark:hover:bg-neutral-700 px-3 py-2 rounded-md text-sm font-medium">Skills</Link>
+              <Link href="#projects" className="hover:bg-neutral-100 dark:hover:bg-neutral-700 px-3 py-2 rounded-md text-sm font-medium">Projects</Link>
               <Link href="#experience" className="hover:bg-neutral-100 dark:hover:bg-neutral-700 px-3 py-2 rounded-md text-sm font-medium">Experience</Link>
               <Link href="#education" className="hover:bg-neutral-100 dark:hover:bg-neutral-700 px-3 py-2 rounded-md text-sm font-medium">Education</Link>
-              <Link href="#projects" className="hover:bg-neutral-100 dark:hover:bg-neutral-700 px-3 py-2 rounded-md text-sm font-medium">Projects</Link>
               <Link href="#additionalInfo" className="hover:bg-neutral-100 dark:hover:bg-neutral-700 px-3 py-2 rounded-md text-sm font-medium">Additional Info</Link>
               <Link href="https://drive.google.com/file/d/119KxUGfbfcrbaMtNEkb0115XbMwdF2xc/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md text-sm font-medium">Download CV</Link>
             </div>
@@ -76,12 +76,12 @@ export default function Navbar() {
       {isMobileMenuOpen && (
         <div className="md:hidden bg-white dark:bg-neutral-900 border-t border-neutral-200 dark:border-neutral-800">
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
-            <Link href="#resumeHeader" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Header</Link>
-            <Link href="#professionalSummary" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Summary</Link>
-            <Link href="#experience" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Experience</Link>
-            <Link href="#education" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Education</Link>
+            <Link href="#resumeHeader" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Home</Link>
             <Link href="#skills" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Skills</Link>
             <Link href="#projects" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Projects</Link>
+            {/*<Link href="#professionalSummary" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Summary</Link>*/}
+            <Link href="#experience" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Experience</Link>
+            <Link href="#education" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Education</Link>
             <Link href="#additionalInfo" className="hover:bg-neutral-700 block px-3 py-2 rounded-md text-base font-medium">Additional Info</Link>
             <Link href="https://drive.google.com/file/d/119KxUGfbfcrbaMtNEkb0115XbMwdF2xc/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-700 block px-4 py-2 rounded-md text-base font-medium">Download CV</Link>
           </div>
