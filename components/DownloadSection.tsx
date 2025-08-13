@@ -51,7 +51,7 @@ export default function DownloadSection() {
               </Link>
               
               <Link 
-                href="https://www.linkedin.com/in/sayantan12102000/" 
+                href="https://www.linkedin.com/in/sayantan-c12/" 
                 target="_blank" 
                 className="inline-flex items-center text-blue-600 dark:text-blue-400 hover:text-blue-500 dark:hover:text-blue-300 transition-colors"
               >

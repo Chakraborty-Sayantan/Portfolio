@@ -36,14 +36,14 @@ export default function Projects() {
                   <div className="flex flex-wrap justify-between items-center mb-4">
                     <h3 className="text-xl font-bold text-neutral-900 dark:text-white mb-2">QuickToolsAI [NEXT.JS]</h3>
                     <div className="flex gap-4">
-                      <Link href="https://q-tools-ai.vercel.app/" target="_blank" className="text-blue-400 hover:text-blue-300 flex items-center">
+                      <Link href="https://qtoolsai.store/" target="_blank" className="text-blue-400 hover:text-blue-300 flex items-center">
                         <svg className="w-5 h-5 mr-1" fill="currentColor" viewBox="0 0 20 20">
                           <path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"></path>
                           <path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"></path>
                         </svg>
                         View Project
                       </Link>
-                      <Link href="https://github.com/Hacker-Man07/QToolsAI" target="_blank" className="text-blue-400 hover:text-blue-300 flex items-center">
+                      <Link href="https://github.com/Chakraborty-Sayantan/QToolsAI" target="_blank" className="text-blue-400 hover:text-blue-300 flex items-center">
                         <svg className="w-5 h-5 mr-1" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M10 .333A9.911 9.911 0 000 10c0 4.411 2.865 8.169 6.839 9.49.5.092.683-.217.683-.481 0-.237-.009-.866-.014-1.7-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.271.098-2.65 0 0 .84-.269 2.75 1.026A9.552 9.552 0 0110 4.836c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.203 2.398.1 2.651.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.481C17.137 18.167 20 14.41 20 10c0-5.522-4.477-10-10-10"></path>
                         </svg>
@@ -99,7 +99,7 @@ export default function Projects() {
                         </svg>
                         View Project
                       </Link>
-                      <Link href="#" target="_blank" className="text-blue-400 hover:text-blue-300 flex items-center">
+                      <Link href="https://github.com/Chakraborty-Sayantan/Rent-o-Car-Frontend" target="_blank" className="text-blue-400 hover:text-blue-300 flex items-center">
                         <svg className="w-5 h-5 mr-1" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M10 .333A9.911 9.911 0 000 10c0 4.411 2.865 8.169 6.839 9.49.5.092.683-.217.683-.481 0-.237-.009-.866-.014-1.7-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.271.098-2.65 0 0 .84-.269 2.75 1.026A9.552 9.552 0 0110 4.836c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.203 2.398.1 2.651.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.481C17.137 18.167 20 14.41 20 10c0-5.522-4.477-10-10-10"></path>
                         </svg>
@@ -146,7 +146,7 @@ export default function Projects() {
                 <div>
                   <div className="flex flex-wrap justify-between items-center mb-4">
                     <h3 className="text-xl font-bold text-neutral-900 dark:text-white mb-2">Document Similarity Matching System [PYTHON]</h3>
-                    <Link href="https://github.com/Hacker-Man07/Document-Similarity-Matching" target="_blank" className="text-blue-400 hover:text-blue-300 flex items-center">
+                    <Link href="https://github.com/Chakraborty-Sayantan/Document-Similarity-Matching" target="_blank" className="text-blue-400 hover:text-blue-300 flex items-center">
                         <svg className="w-5 h-5 mr-1" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M10 .333A9.911 9.911 0 000 10c0 4.411 2.865 8.169 6.839 9.49.5.092.683-.217.683-.481 0-.237-.009-.866-.014-1.7-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.271.098-2.65 0 0 .84-.269 2.75 1.026A9.552 9.552 0 0110 4.836c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.203 2.398.1 2.651.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.481C17.137 18.167 20 14.41 20 10c0-5.522-4.477-10-10-10"></path>
                         </svg>
