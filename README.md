@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website
 
 A modern, responsive portfolio website built with Next.js, showcasing my skills, projects, and professional experience.
@@ -18,6 +19,27 @@ A modern, responsive portfolio website built with Next.js, showcasing my skills,
 - Additional information section
 
 ## 🛠️ Tech Stack
+=======
+<h1 align="center">Hi 👋, I'm Sayantan</h1>
+<h3 align="center">Turning web woes into ‘whoa!’ moments—one optimized line at a time!</h3>
+
+
+## 🚀 Live Demo
+
+[View My Website](https://portfolio-virid-theta-95.vercel.app/)
+
+## 📄 Resume
+
+[Download CV](https://drive.google.com/file/d/119KxUGfbfcrbaMtNEkb0115XbMwdF2xc/view?usp=sharing)
+
+## 🔗 Connect with Me
+
+- [GitHub](https://github.com/Hacker-Man07)
+- [LinkedIn](https://linkedin.com/in/sayantan-c12/)
+
+
+## 🛠️ My Tech Stack
+>>>>>>> ab950be6a4e4aa8f79228ab568d1aee51b56e7ce
 
 ### Frontend Technologies
 - HTML, CSS, JavaScript
@@ -43,6 +65,7 @@ A modern, responsive portfolio website built with Next.js, showcasing my skills,
 - VSCode, Cursor
 - Vercel
 
+<<<<<<< HEAD
 ## 🎯 Projects
 
 ### 1. QuickToolsAI [NEXT.JS]
@@ -151,3 +174,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [React Icons](https://react-icons.github.io/react-icons/) 
+=======
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+>>>>>>> ab950be6a4e4aa8f79228ab568d1aee51b56e7ce
