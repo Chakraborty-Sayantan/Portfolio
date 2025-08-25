@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 # Portfolio Website
 
 A modern, responsive portfolio website built with Next.js, showcasing my skills, projects, and professional experience.
-
-## 🚀 Live Demo
-
-[View Live Website](https://your-portfolio-url.com)
 
 ## ✨ Features
 
@@ -18,11 +13,6 @@ A modern, responsive portfolio website built with Next.js, showcasing my skills,
 - Education details
 - Additional information section
 
-## 🛠️ Tech Stack
-=======
-<h1 align="center">Hi 👋, I'm Sayantan</h1>
-<h3 align="center">Turning web woes into ‘whoa!’ moments—one optimized line at a time!</h3>
-
 
 ## 🚀 Live Demo
 
@@ -34,41 +24,13 @@ A modern, responsive portfolio website built with Next.js, showcasing my skills,
 
 ## 🔗 Connect with Me
 
-- [GitHub](https://github.com/Hacker-Man07)
+- [GitHub](https://github.com/Chakraborty-Sayantan)
 - [LinkedIn](https://linkedin.com/in/sayantan-c12/)
 
 
-## 🛠️ My Tech Stack
->>>>>>> ab950be6a4e4aa8f79228ab568d1aee51b56e7ce
-
-### Frontend Technologies
-- HTML, CSS, JavaScript
-- React.js, Redux
-- Next.js, TypeScript
-- Tailwind CSS
-
-### Backend Technologies
-- Node.js, Express.js
-- Flask, Django
-- FastAPI
-- RESTful APIs
-
-### Databases
-- MongoDB
-- MySQL
-- PostgreSQL
-
-### Tools
-- Git, GitHub
-- Postman
-- CI/CD
-- VSCode, Cursor
-- Vercel
-
-<<<<<<< HEAD
 ## 🎯 Projects
 
-### 1. QuickToolsAI [NEXT.JS]
+### 1. QTools AI [NEXT.JS]
 A multi-purpose online tool that is a Next.js-based AI-powered web application integrating AI tools, daily utilities, and games.
 
 **Key Features:**
@@ -82,7 +44,7 @@ A multi-purpose online tool that is a Next.js-based AI-powered web application i
 - Tailwind CSS
 - AI SDK
 
-[View Project](https://q-tools-ai.vercel.app/) | [Source Code](https://github.com/Hacker-Man07/QToolsAI)
+[View Project](https://qtoolsai.store/) | [Source Code](https://github.com/Chakraborty-Sayantan/QToolsAI)
 
 ### 2. Car Rental Website [MERN]
 A fully functional car rental website using the MERN stack with RESTful APIs for seamless front-end and back-end communication.
@@ -113,7 +75,7 @@ An automated invoice categorization system using Python, NumPy, and Scikit-learn
 - NumPy
 - Scikit-learn
 
-[Source Code](https://github.com/Hacker-Man07/Document-Similarity-Matching)
+[Source Code](https://github.com/Chakraborty-Sayantan/Document-Similarity-Matching)
 
 ## 📚 Skills
 
@@ -160,9 +122,9 @@ An automated invoice categorization system using Python, NumPy, and Scikit-learn
 
 ## 🔗 Connect with Me
 
-- [GitHub](https://github.com/Hacker-Man07)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
+- [GitHub](https://github.com/Chakraborty-Sayantan)
+- [LinkedIn]((https://www.linkedin.com/in/sayantan-c12/))
+- [Twitter](https://x.com/Sayantan_Codes)
 
 ## 📝 License
 
@@ -174,8 +136,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [React Icons](https://react-icons.github.io/react-icons/) 
-=======
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
->>>>>>> ab950be6a4e4aa8f79228ab568d1aee51b56e7ce
+
